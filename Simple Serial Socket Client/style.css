@@ -2,3 +2,17 @@ body {
     margin: 5px;
 }
 
+#logBox {
+    width: 500px;
+    height: 200px;
+}
+
+#sendBox {
+    width: 500px;
+    height:30px
+}
+
+#sendBtn {
+    width: 80px;
+    height: 30px;
+}
