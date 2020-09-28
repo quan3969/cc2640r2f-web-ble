@@ -4,15 +4,22 @@ body {
 
 #logBox {
     width: 500px;
-    height: 200px;
+    height: 500px;
+    resize: none;
 }
 
 #sendBox {
     width: 500px;
-    height:30px
+    height: 30px;
+    resize: none;
 }
 
 #sendBtn {
+    width: 80px;
+    height: 30px;
+}
+
+#clearLogBoxBtn {
     width: 80px;
     height: 30px;
 }
